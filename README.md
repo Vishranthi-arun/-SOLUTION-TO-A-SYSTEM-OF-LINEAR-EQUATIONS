@@ -25,6 +25,6 @@ value=np.linalg.solve(A,B)
 print(value)
 ```
 ## Output:
-![OUTPUT](./Exp01.JPG)
+![OUTPUT](./Exp01.jpg)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program.
